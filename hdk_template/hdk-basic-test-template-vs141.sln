@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "helloworld", "hdk-basic-test-template-vs141.vcxproj", "{1944E91C-8AD6-4539-8523-CE40B10B9FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1944E91C-8AD6-4539-8523-CE40B10B9FC0}.Debug|x64.ActiveCfg = Debug|x64
+		{1944E91C-8AD6-4539-8523-CE40B10B9FC0}.Debug|x64.Build.0 = Debug|x64
+		{1944E91C-8AD6-4539-8523-CE40B10B9FC0}.Release|x64.ActiveCfg = Release|x64
+		{1944E91C-8AD6-4539-8523-CE40B10B9FC0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09513721-1E29-4F04-9CCF-654E4C65F6C8}
+	EndGlobalSection
+EndGlobal
