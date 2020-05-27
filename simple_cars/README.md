@@ -6,5 +6,7 @@ a small procedural setup for cars following checkpoints based on Bullet physics 
 
 also demonstrates procedural post-processing that creates renderable geometry based on the constraint geometry
 
-![a1](previews/cars_003.gif)
-
+<video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" width="320" height="200" controls preload></video>
+<video width="500" height="200" controls preload>
+    <source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
+</video>
