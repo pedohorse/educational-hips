@@ -7,7 +7,7 @@ a small procedural setup for cars following checkpoints based on Bullet physics 
 also demonstrates procedural post-processing that creates renderable geometry based on the constraint geometry
 ![p0](previews/montage.gif)
 
-:
+support at [patreon](https://www.patreon.com/posts/simple-cars-37594267)
 
 ![p0](previews/cars_003_p0.gif)
 ![p0](previews/cars_003_p1.gif)
