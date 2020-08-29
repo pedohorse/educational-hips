@@ -13,5 +13,9 @@ Overall it has some use cases, like shaping cached RBD, smokes or particle simul
 
 The asset is heavily filled with comments on how it all works, while itself being done as a proper production level asset. Might be a good learning material for junior TDs.
 
+math background for this is very small and simple as soon as you familiarise yourself with mathematical notation. It all fits into one first page of this article: [main pdf article](https://hal.archives-ouvertes.fr/hal-02102304/document)
+
+additional basis functions taken from here: [another pdf article](https://pdfs.semanticscholar.org/4ef7/d2d515169b0919a080f84f2b82786b978e45.pdf)
+
 
 support the effort: [patreon](https://www.patreon.com/posts/40995469)
