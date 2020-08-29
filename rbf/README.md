@@ -12,3 +12,6 @@ Overall it has some use cases, like shaping cached RBD, smokes or particle simul
 ![a2](previews/squab_s.gif)
 
 The asset is heavily filled with comments on how it all works, while itself being done as a proper production level asset. Might be a good learning material for junior TDs.
+
+
+support the effort: [patreon](https://www.patreon.com/posts/40995469)
